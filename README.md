@@ -1,7 +1,7 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 「 𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 」 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="[https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg](https://files.catbox.moe/2sldz1.jpg)" alt="Aviax Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
