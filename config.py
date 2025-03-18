@@ -19,10 +19,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", -1002323270708))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", -1002670452363))
 
 # Get this value from @MissRose_Bot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7111953960))
+OWNER_ID = int(getenv("OWNER_ID", 7842155052))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/munnakingop12/Shreyamusic",
+    "https://github.com/mrhoneyxd07/VAMPIRE_CREW_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DPZ_CHANNEL_STYLISH_NAME")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+0qG_bXL8vhk4M2Jl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llVAMPIRE_UPDATEll")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+zhHXKdSKoHZkODk1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -81,10 +81,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/472b29c2688aac20a8f5a-944ef799727a462f76.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/9dec3j.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/c22f242d08b0c8642a81e-1111877cb049a26a03.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/9dec3j.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c22f242d08b0c8642a81e-1111877cb049a26a03.jpg"
 STATS_IMG_URL = "https://graph.org/file/c22f242d08b0c8642a81e-1111877cb049a26a03.jpg"
