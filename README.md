@@ -1,4 +1,4 @@
-<h1 align="center">🎵 「 𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 」 🎵</h1>
+<h1 align="center">🎵 「 ᴀʙʜɪ 𝐌ᴜsɪᴄ 」 🎵</h1>
 
 <p align="center">
   <img src="[https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg](https://files.catbox.moe/2sldz1.jpg)" alt="Aviax Music Logo" width="600" height="150">
@@ -31,16 +31,16 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 
 ### 🌟 Features
 
-- 🎵 **Multiple Sources:** Play music from various platforms.
-- 📃 **Queue System:** Line up your favorite songs.
-- 🔀 **Advanced Controls:** Shuffle, repeat, and more.
+- 🎵🪩 **ᴀʙʜɪ 𝐌ᴜsɪᴄ:** Play music from various platforms.
+- 📃🫶 **Queue System:** Line up your favorite songs.
+- 🔀🍷 **Advanced Controls:** Shuffle, repeat, and more.
 - 🎛 **Customizable Settings:** From equalizer to normalization.
-- 📢 **Crystal Clear Audio:** High-quality playback.
-- 🎚 **Volume Mastery:** Adjust to your preferred loudness.
+- 📢🥂 **Crystal Clear Audio:** High-quality playback.
+- 🧋 **Volume Mastery:** Adjust to your preferred loudness.
 
 ---
 
-## 🚀 Deploy on Heroku 
+## 🍷 Deploy on Heroku 🥂
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
 
 ---
